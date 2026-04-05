@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-Himani
+I am Himani , an analtical consultant who unserstand busniess problem and convert raw data into insights
+
+#🔭 I’m currently working on
+Languages: Python, SQL
+Visualization: Power BI, Excel, Plotly Dash
+Libraries: Pandas, Numpy, Scrapy, MySQL, PostgreSQL, Matplotlib, Plotly, Sklearn, Tensorflow, Keras
+DBMS: SQL Server, MySQL, PostgreSQL,SQLite, BigQuery
+Platforms: GitHub, VS Code, Jupyter Notebook, Google Colab, PyCharm, Notion
+⚡ Fun fact: I enjoy finding patterns in data more than scrolling social media
